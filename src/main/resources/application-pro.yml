@@ -1,0 +1,16 @@
+spring:
+  thymeleaf:
+    cache: true
+
+nest:
+  nestTokenAddress: "0x04abeda201850ac0124161f037efd70c74ddc74c"
+  # USDT quote mining contract address
+  nestMiningAddress: "0x03dF236EaCfCEf4457Ff7d6B88E8f00823014bcd"
+  # Ntoken quote mining contract address
+  ntokenMiningAddress: "0xC2058Dd4D55Ae1F3e1b0744Bdb69386c9fD902CA"
+  # Ntoken manages the contract address
+  nTokenControllerAddress: "0xc4f1690eCe0145ed544f0aee0E2Fa886DFD66B62"
+
+  nTokenMaxTotalSupply: 5000000000000000000000000
+  miningFeeRateInflateFactor: 10000
+

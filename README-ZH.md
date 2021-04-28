@@ -25,8 +25,8 @@
    * 钱包私钥：
    通过助记词生成，可通过nestDapp注册。
    * 资产：
-   `ETH/USDT`和`ETH/NEST`报价验证套利至少需要准备90.5ETH、价值90ETH的USDT代币或NEST代币以及报价抵押的40万NEST。
-   其他NTOKEN报价单验证套利至少需要准备30.5ETH、价值30ETH的TOKEN代币或NTOKEN代币和40万NEST。
+   <br/>`ETH/USDT`和`ETH/NEST`报价验证套利至少需要准备90.5ETH、价值90ETH的USDT代币或NEST代币以及报价抵押的40万NEST。
+   <br/>其他NTOKEN报价单验证套利至少需要准备30.5ETH、价值30ETH的TOKEN代币或NTOKEN代币和40万NEST。
    * 以太坊节点URL。
    * TOKEN代币合约地址：
    例如对`ETH/USDT`报价进行验证套利，那么就需要填写USDT代币合约地址`0xdac17f958d2ee523a2206206994597c13d831ec7`。

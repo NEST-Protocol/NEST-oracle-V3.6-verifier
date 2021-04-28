@@ -3,13 +3,13 @@ spring:
     cache: true
 
 nest:
-  nestTokenAddress: "0xBaa792bba02D82Ebf3569E01f142fc80F72D9b8f"
+  nestTokenAddress: ""
   # USDT quote mining contract address
-  nestMiningAddress: "0x7d919aaC07Ec3a7330a0C940F711abb6a6599E23"
+  nestMiningAddress: ""
   # Ntoken quote mining contract address
-  ntokenMiningAddress: "0x7d919aaC07Ec3a7330a0C940F711abb6a6599E23"
+  ntokenMiningAddress: ""
   # Ntoken manages the contract address
-  nTokenControllerAddress: "0xc39dC1385a44fBB895991580EA55FC10e7451cB3"
+  nTokenControllerAddress: ""
 
   # Test 1 million, mainnet 5 million, NToken issue greater than this value, enable post2
   nTokenMaxTotalSupply: 1000000000000000000000000
